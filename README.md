@@ -88,4 +88,4 @@ Streamlit ile geliştirilen web arayüzü şu özellikleri sunar:
 
 - Mert Semih Sarıyerli - [@mertsemih](https://github.com/mertsemih) - semihmertsariyerli.06@gmail.com
 - Ramazan Kanat - [@ramazankanat226](https://github.com/ramazankanat226) - ramazankanat226@gmail.com
-- Ömer Faruk Aşkın - [@askinomer](https://github.com/askinomer) - askinomer20@gmail.com
+- Ömer Faruk Aşkın - [@askinomer](https://github.com/askinomer) - omerfaruk_2020@hotmail.com
